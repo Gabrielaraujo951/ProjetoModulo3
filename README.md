@@ -2,7 +2,7 @@
 
 ## 📌 Desafio Escolhido
 
-Descreva aqui o desafio proposto pelo grupo (ex.: cadastro de usuários, automação de envio de e-mails, integração com API de IA).
+Site de confirmação de evento onde é gerado um link de acesso para controle de presença do evento, onde quando ocorra a confirmação seja enviado um e-mail para o usuário, e para o gerador do evento seja possivel fazer a contagem de quantos confirmados.
 
 ---
 
