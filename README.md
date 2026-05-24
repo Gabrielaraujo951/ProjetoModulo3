@@ -1,7 +1,50 @@
 # Projeto Módulo 3 – Low Code/No Code/Vibecode
 
-## 📌 Desafio Escolhido
+# 🎉 Sistema Dinâmico de Confirmação de Presença (No-Code/Low-Code)
 
-Site de confirmação de evento onde é gerado um link de acesso para controle de presença do evento, onde quando ocorra a confirmação seja enviado um e-mail para o usuário, e para o gerador do evento seja possivel fazer a contagem de quantos confirmados.
+Este projeto consiste em uma plataforma inteligente para criação de eventos e gerenciamento de confirmação de presença (RSVP). O sistema utiliza uma arquitetura dinâmica onde o organizador gera um convite personalizado e o convidado realiza a validação de seus dados antes de confirmar ou recusar a participação.
 
-Criar um site onde ele venha depurado em linguagem VSCODE com que o objetivo de seja de um site para confirmação de evento onde é gerado um link especifico para cada evento criado. Onde a pagina do criador do evento tenha como modificar a pagina com uma imagem de plano de fundo e um recado especifico de sua preferencia. E para quem clicar no link gerado seja possivel na primeira pagina tenha a confimação de email e nome do usuario, logo apos essa pagina seja levada a pagina criada pelo gerador do link, onde tera o texto e a imagem de plano de fundo onde abaixo do recado tenha um botao de confirmação e de não confirmação da presença, onde quando clicado no botao de "não irei comparer" seja mostrado uma proxima tela agradecendo pela resposta. e para quem clicar no botao de "confirmo ao evento" seja aberta uma tela de agradecimentos por comparecer com informações adicionais sobre o evento e  tambem a possibilidade de botao de envio ao email a confirmação do evento. Quero que o botão de e-mail faça o envio real, e que o criador do evento tenha uma página de relatório para ver a lista de quem confirmou com o quantitativo de quantos e-mail confirmados e nao confirmados e total
+## 🚀 Link do Protótipo
+O protótipo funcional e hospedado pode ser acessado através do link abaixo:
+🔗 **[Acessar Site Protótipo](https://bubbleapps.io)**
+
+---
+
+## 🎯 Objetivo do Projeto
+O sistema tem a intenção de facilitar e automatizar o processo de confirmação de um usuário a um evento. Ele elimina a necessidade de preenchimentos manuais exaustivos e centraliza todas as respostas em um banco de dados unificado, otimizando o planejamento de organizadores de festas, conferências e reuniões.
+
+---
+
+## ⚙️ Funcionalidades do Protótipo
+O protótipo desenvolvido permite uma experiência de ponta a ponta sem a necessidade de programação tradicional:
+
+* **Criação de Eventos Customizados:** O organizador define título, recado exclusivo e imagem de fundo.
+* **Links Únicos Automatizados:** Geração de uma URL exclusiva para cada evento baseada no *Unique ID* do banco de dados.
+* **Identificação Obrigatória:** Captura prévia de Nome e E-mail do convidado antes da exibição dos detalhes.
+* **Interface Responsiva e Dinâmica:** A página do convidado se adapta instantaneamente carregando a mídia e textos escolhidos pelo criador.
+* **Fluxo de Resposta Inteligente:** Telas condicionais de agradecimento para quem confirma ou recusa o convite.
+* **Disparo de E-mails Automático:** Envio automatizado de um e-mail de confirmação diretamente para a caixa de entrada do usuário.
+* **Armazenamento em Nuvem:** Salvamento instantâneo de todas as respostas e dados cadastrados.
+
+---
+
+## 🛠️ Plataformas Utilizadas e Justificativa
+
+O ecossistema do projeto foi estruturado utilizando o conceito de programação avançada por meio de ferramentas visuais e IA:
+
+* **Gemini (Google):** Utilizado como o motor de inteligência artificial para engenharia, refinamento e otimização dos prompts estruturados.
+* **Bubble.io:** Plataforma No-Code robusta utilizada para o desenvolvimento visual, hospedagem e gerenciamento do banco de dados do site.
+
+### Justificativa da Escolha
+A combinação destas tecnologias foi escolhida estrategicamente por oferecer:
+* **Otimização de Prompts:** Uso da IA para dar o melhor seguimento e lógica estrutural ao site antes da montagem.
+* **Interface Visual Intuitiva:** Agilidade no desenho de telas complexas usando o motor Flexbox responsivo do Bubble.
+* **Facilidade de Integração:** Arquitetura nativa preparada para conexão futura com APIs e serviços externos.
+* **Automação Rápida:** Configuração ágil de processos e fluxos lógicos (*workflows*) sem digitação manual de código.
+
+---
+
+## 🏗️ Estrutura de Páginas do Sistema
+
+O funcionamento ocorre através de fluxos visuais configurados no Bubble, reduzindo o código manual e agilizando testes. O fluxo de navegação segue a seguinte ordem:
+
