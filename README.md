@@ -6,7 +6,7 @@ Este projeto consiste em uma plataforma inteligente para criação de eventos e 
 
 ## 🚀 Link do Protótipo
 O protótipo funcional e hospedado pode ser acessado através do link abaixo:
-🔗 **[Acessar Site Protótipo]([https://bubbleapps.io](https://gs668951.bubbleapps.io/version-test?debug_mode=true)**
+🔗 **[Acessar Site Protótipo] [https://bubbleapps.io](https://gs668951.bubbleapps.io/version-test?debug_mode=true)**
 
 ---
 
