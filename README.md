@@ -60,6 +60,19 @@ Durante o processo de desenvolvimento e validação do protótipo, o grupo ident
 5. **Menor Controle Técnico:** Nem todos os processos lógicos de baixo nível podiam ser personalizados ou auditados profundamente.
 
 ---
+# Colaboração
+O grupo dividiu as tarefas da seguinte forma:
+• Modelagem do fluxo: definição das automações e regras;
+• Design do protótipo: criação das interfaces;
+• Documentação: organização do repositório e produção do relatório;
+
+A colaboração ocorreu por meio de reuniões periódicas e compartilhamento do
+repositório no GitHub.
+
+Colaboradores:
+Gabriel Silva
+Danilo Guilherme
+William Perim 
 
 ## 🧠 Reflexão Crítica e Soluções Futuras
 
